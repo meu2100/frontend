@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #202124;
+  background: #e6dfdf;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -18,22 +18,22 @@ body {
   display: flex;
   flex-direction: column;
   gap: 14px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #000000;
   border-radius: 12px;
 }
 
 .title {
   font-size: 36px;
-  color: #fff;
+  color: #000000;
 }
 
 .sub-title {
   font-size: 16px;
-  color: #9aa0a6;
+  color: #13684e;
 }
 
 .date {
-  color: #9aa0a6;
+  color: #13684e;
   font-size: 12px;
 }
 
@@ -44,7 +44,7 @@ body {
   align-items: center;
   justify-content: space-between;
   border-radius: 6px;
-  color: #999da2;
+  color: #13684e;
   padding: 8px 2px 8px 12px;
   caret-color: #48a1ff;
 }
@@ -54,7 +54,7 @@ select {
   background: transparent;
   border: none;
   outline: none;
-  color: #bdc1c5;
+  color: #000000;
 }
 
 select {
